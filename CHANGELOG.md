@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/phoenixTW/aws-profile-switcher/compare/awsps-v1.0.0...awsps-v1.0.1) (2026-04-25)
+
+
+### Bug Fixes
+
+* fixed npm version lint issue. ([895ac73](https://github.com/phoenixTW/aws-profile-switcher/commit/895ac733c43a889679385ab9c052f2f6cb0a39eb))
+
 ## 1.0.0 (2026-04-25)
 
 
