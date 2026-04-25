@@ -1,0 +1,9 @@
+{
+  "startUrl": "https://my-org.awsapps.com/start",
+  "region": "us-east-1",
+  "accessToken": "dummy-token",
+  "expiresAt": "2099-12-31T23:59:59Z",
+  "clientId": "test-client-id",
+  "clientSecret": "test-secret",
+  "registrationAt": "2024-01-01T00:00:00Z"
+}
