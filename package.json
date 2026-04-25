@@ -13,7 +13,9 @@
       "require": "./dist/index.cjs"
     }
   },
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "engines": {
     "node": ">=20"
   },
@@ -27,11 +29,23 @@
     "test:coverage": "vitest run --coverage",
     "prepublishOnly": "pnpm run build"
   },
-  "keywords": ["aws", "profile", "switcher", "sso", "cli", "awsps"],
-  "license": "MIT",
+  "keywords": [
+    "aws",
+    "profile",
+    "switcher",
+    "sso",
+    "cli",
+    "awsps"
+  ],
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/phoenixtw/aws-profile-switcher"
+    "url": "https://github.com/phoenixTW/aws-profile-switcher"
+  },
+  "author": {
+    "name": "Kaustav Chakraborty",
+    "email": "kaustav.chakraborty@iamkaustav.com",
+    "url": "https://iamkaustav.com"
   },
   "dependencies": {
     "@clack/prompts": "^1.2.0",

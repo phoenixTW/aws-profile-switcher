@@ -3,7 +3,7 @@
 > Interactive AWS profile switcher with SSO login, alias shortcuts, and shell hooks
 
 [![npm version](https://img.shields.io/npm/v/@phoenixtw/awsps.svg)](https://www.npmjs.com/package/@phoenixtw/awsps)
-[![license](https://img.shields.io/npm/l/@phoenixtw/awsps.svg)](https://github.com/phoenixtw/aws-profile-switcher/blob/main/LICENSE)
+[![license](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](https://github.com/phoenixTW/aws-profile-switcher/blob/main/LICENSE)
 [![node version](https://img.shields.io/node/v/@phoenixtw/awsps.svg)](https://nodejs.org)
 
 ## Why awsps?
@@ -228,8 +228,14 @@ pnpm test
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
+Contributions are welcome! Check out the [Contributing Guide](CONTRIBUTING.md) for detailed instructions on:
+
+- Development setup and available scripts
+- Code style and formatting conventions
+- Commit message format (Conventional Commits)
+- Pull request process and guidelines
+- Reporting bugs and requesting features
 
 ## License
 
-MIT
+[Apache License 2.0](LICENSE) — see [LICENSE](LICENSE) for full text.
