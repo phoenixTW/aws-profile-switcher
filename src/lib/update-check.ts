@@ -1,10 +1,6 @@
 import { execa } from 'execa';
 import pc from 'picocolors';
 
-interface NpmVersion {
-  latest: string;
-}
-
 export async function checkForUpdate(currentVersion: string): Promise<void> {
   try {
     const { stdout } = await execa('npm', ['view', '@phoenixtw/awsps', 'version'], {
