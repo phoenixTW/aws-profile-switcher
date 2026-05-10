@@ -55,13 +55,13 @@
     "@clack/prompts": "^1.2.0",
     "@smithy/shared-ini-file-loader": "^4.4.0",
     "commander": "^14.0.0",
-    "env-paths": "^3.0.0",
+    "env-paths": "^4.0.0",
     "execa": "^9.0.0",
     "fuse.js": "^7.0.0",
     "picocolors": "^1.1.0",
     "proper-lockfile": "^4.1.2",
     "shescape": "^2.0.0",
-    "write-file-atomic": "^7.0.0"
+    "write-file-atomic": "^8.0.0"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
